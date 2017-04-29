@@ -1,0 +1,12 @@
+.box {
+    text-align: center;
+}
+
+.img {
+    height: 25%;
+    width: 80%;
+    border-radius: 8px;
+    margin-top: 30px;
+    border: 1px solid #d7dde4;
+    box-shadow: 1px 1px 10px #ccc;
+}
